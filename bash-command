@@ -1,0 +1,1 @@
+find . -name createTables.py | xargs pylint > report_createTable.txt
